@@ -1,0 +1,16 @@
+{
+  "name": "pass-bot",
+  "version": "1.0.0",
+  "description": "My Discord bot for /ban, /kick, /timeout, /untimeout, /clear",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "nick",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
